@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "454850289013",
+    "project_id": "barleyroof-1150e",
+    "storage_bucket": "barleyroof-1150e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454850289013:android:a5deaa8efee09ec287473c",
+        "android_client_info": {
+          "package_name": "com.daxno.barleyroof.barleryroof"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "454850289013-8s9jb7l59jpucbc9qm2h9088e613iinn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKf07UjdgCqphCEbqHXRmYQvQLrCdeGkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "454850289013-8s9jb7l59jpucbc9qm2h9088e613iinn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "454850289013-dd2hf5ba0g0036t4ibpuqcj2cg1dh72j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.daxno.barleyroof.barleryroof"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
